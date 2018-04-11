@@ -1,8 +1,6 @@
 # Identicon
 
-[![Elixir](https://github.com/jalbertsr/logo-badge-images/blob/master/img/Official_Elixir_logo.png?raw=true)](https://elixir-lang.org/)
-
-[![Phoenix](https://github.com/jalbertsr/logo-badge-images/blob/master/img/phoenix.png?raw=true)](http://phoenixframework.org/)
+[![Phoenix](https://github.com/jalbertsr/logo-badge-images/blob/master/img/phoenix.png?raw=true)](http://phoenixframework.org/) [![Elixir](https://github.com/jalbertsr/logo-badge-images/blob/master/img/Official_Elixir_logo.png?raw=true)](https://elixir-lang.org/)
 
 ## Installation
 
