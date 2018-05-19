@@ -36,9 +36,9 @@ defmodule Identicon.MixProject do
    defp package() do
     [
       # This option is only needed when you don't want to use the OTP application name
-      name: "postgrex",
+      name: "Identicon",
       # These are the default files included in the package
-      files: ["lib", "priv", "mix.exs", "README*", "readme*", "LICENSE*", "license*"],
+      files: ["lib", "mix.exs", "README*"],
       maintainers: ["Joan Albert Segura"],
       licenses: ["MIT"],
       links: %{"GitHub" => "https://github.com/jalbertsr/identicon"}
